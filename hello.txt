@@ -1,0 +1,9 @@
+# 分支的创建和合并
+# git branch yourbranch 
+# git checkout yourbranch    切换到yourbranch
+
+# 开发yourbranch分支，然后开发之后与master分支合并
+
+# git checkout master
+# git merge yourbranch
+# git branch -d yourbranch    合并完后删除本地分支
